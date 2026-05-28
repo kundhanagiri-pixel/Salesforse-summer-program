@@ -23,3 +23,6 @@ Companies use Salesforce because it is the #1 cloud-based CRM platform. It provi
 
 ## Screenshots
 Badge screenshots are in the `/screenshots` folder.
+## Salesforce Playground Management
+
+![Playground](./screenshots/playground-management.png)
